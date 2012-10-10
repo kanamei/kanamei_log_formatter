@@ -4,7 +4,7 @@ require "kanamei_log_formatter/version"
 
 Gem::Specification.new do |s|
   s.name        = "kanamei_log_formatter"
-  s.version     = Kanemei::LogFormatter::VERSION
+  s.version     = Kanamei::LogFormatter::VERSION
   s.authors     = ["pacojp"]
   s.email       = ["paco.jp@gmail.com"]
   s.homepage    = "https://github.com/kanamei/kanamei_log_formatter"
